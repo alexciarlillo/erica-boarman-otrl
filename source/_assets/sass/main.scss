@@ -5,3 +5,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Roboto:300,300i,400,400i,700,700i');
 
 @tailwind utilities;
+
+nav {
+  background-image: linear-gradient(to bottom right, #003E6B, #2680C2);
+}
