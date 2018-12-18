@@ -178,6 +178,7 @@ module.exports = {
       'system-ui',
       'BlinkMacSystemFont',
       '-apple-system',
+      'Open Sans',
       'Segoe UI',
       'Roboto',
       'Oxygen',
@@ -208,6 +209,22 @@ module.exports = {
       'Courier New',
       'monospace',
     ],
+    'headline': [
+      'Roboto',
+      'system-ui',
+      'BlinkMacSystemFont',
+      '-apple-system',
+      'Helvetica Neue',
+      'sans-serif',
+    ],
+    'body': [
+      'Open Sans',
+      'system-ui',
+      'BlinkMacSystemFont',
+      '-apple-system',
+      'Fira Sans',
+      'sans-serif',
+    ]
   },
 
 
@@ -260,15 +277,9 @@ module.exports = {
   */
 
   fontWeights: {
-    'hairline': 100,
-    'thin': 200,
     'light': 300,
     'normal': 400,
-    'medium': 500,
-    'semibold': 600,
     'bold': 700,
-    'extrabold': 800,
-    'black': 900,
   },
 
 
